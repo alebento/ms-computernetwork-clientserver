@@ -12,7 +12,7 @@
 - Open Browser (see this link for Websocket API browser compatibility);
 - Open the link: localhost/"project-folder"/socket_client.html;
 - Choose the port and click on 'Go' button (same port used on terminal command);
-- Use commandnavigator "folder" (example: /test)
+- Use command navigate "folder" (example: /test)
 - Websocket status: 0 - connecting; 1 - open; 2 - closing; 3 - closed;
 
 #### Observations on command:
