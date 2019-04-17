@@ -1,12 +1,7 @@
 # ms-computernetwork-clientserver
-Client / Server application developed for computer network discipline on master degree
+Multi Client / Server application developed for computer network discipline on master degree
 
-Computer Network
-Multi Client / Server Application
-
-Alexandre Bento Pereira
-Master's Degree in Computer Intelligence and Optimization
-alexandre.bento.pereira@gmail.com
+Alexandre Bento Pereira - Master's Degree in Computer Intelligence and Optimization - alexandre.bento.pereira@gmail.com
 
 Developed using:
 - HTML; Javascript; CSS; Bootstarp 4.0; PHP; Websocket PHP API;
