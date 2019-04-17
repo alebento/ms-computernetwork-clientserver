@@ -1,5 +1,6 @@
 # ms-computernetwork-clientserver
-### Client / Server application developed for computer network discipline on master degree
+### Client / Server GET application developed for computer network discipline on master degree
+##### Used for retrieving the folder files from the command folder name passed by the user
 
 #### Alexandre Bento Pereira - Master's Degree in Computer Intelligence and Optimization - alexandre.bento.pereira@gmail.com
 
