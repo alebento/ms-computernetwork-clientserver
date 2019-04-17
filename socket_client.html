@@ -42,6 +42,7 @@
         txt.value="";
         txt.focus();
         try{ socket.send(msg); log("<span class='text-success'><strong>Sent:</strong> "+msg+"</span><br>"); } catch(ex){ log(ex); }
+        document.getElementById('log').scrollTo(0,document.documentElement.scrollHeight);
     }
 
     function quit(){
@@ -58,6 +59,10 @@
         document.getElementById('log').innerHTML+="<br>"+msg; 
     }
 
+    function clean(msg){ 
+        document.getElementById('log').innerHTML=""; 
+    }
+
     function onkey(event){
         if(event.keyCode==13){ 
             send(); 
@@ -70,10 +75,10 @@
     <div class="container align-center">
         <div class="row justify-content-center">
             <div class="col col-md-6">
-                <img src="./img/ufsj.png" alt="Logo UFSJ">
+                <img width="35%" src="./img/ufsj.png" alt="Logo UFSJ">
                 <hr>
-                <h1 class="text-info">Computer Network</h1>
-                <h5 class="text-muted"><strong>Multi Client / Server Application</strong></h5>
+                <h2 class="text-info">Computer Network</h2>
+                <h6 class="text-muted"><strong>Client / Server GET Application</strong></h6>
                 <hr>
                 <h6 class="text-secondary">Alexandre Bento Pereira</h6>
                 <h6 class="text-secondary">Master's Degree in Computer Intelligence and Optimization</h6>
@@ -86,18 +91,18 @@
                 </h6>
                 <h6 class="text-left text-muted"><strong>How to execute:</strong>
                     <ul>
-                        <li>Open terminal on root directory and run:<br><code>nohup php -q socket_server.php "folder" "port" &</code>;</li>
+                        <li>Open terminal on root directory and run:<br><code>nohup php -q socket_server.php "port" >/dev/null &</code>;</li>
                         <li>Launch the web-server application (example: wamp, xampp, etc);</li>
                         <li>Open Browser (see <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket">this link</a> for Websocket API browser compatibility);</li>
                         <li>Open the link: <code>localhost/"project-folder"/socket_client.html</code>;</li>
                         <li>Choose the <i>port</i> and click on 'Go' button (same port used on terminal command);</li>
-                        <li>Use command <code>navigator localhost/"folder"/test/ "port"</code> (default port: 80)</li>
+                        <li>Use command <code>navigator "folder"</code> (example: /test)</li>
                         <li>Websocket status: 0 - connecting; 1 - open; 2 - closing; 3 - closed;</li>
                     </ul>
                 </h6>
             </div>
             <div class="col col-md-6">
-                <h2 class="text-info">Testing Application</h2>
+                <h3 class="text-info">Testing Application</h3>
                 <hr>
                 <div class="input-group">
                     <input class="form-control" id="port" placeholder="Port (default value: 80)" type="text"/>
@@ -106,7 +111,7 @@
                     </div>
                 </div>
                 <hr>
-                <h5 class="text-muted margin-top-basic">Application Log</h5>
+                <h6 class="text-muted margin-top-basic">Application Log</h6>
                 <div id="log"></div>
                 <div class="input-group">
                     <input class="form-control" id="msg" type="text" onkeypress="onkey(event)" placeholder="navigate command"/>
@@ -114,6 +119,7 @@
                         <button type="button" class="btn btn-success text-white" onclick="send()">Send</button>
                     </div>
                 </div>
+                <button type="button" class="btn btn-warning text-white margin-top-basic" onclick="clean()">Clean Log Screen</button>
                 <button type="button" class="btn btn-danger text-white margin-top-basic" onclick="quit()">Close Websocket API Connection</button>
             </div>
         </div>
