@@ -1,0 +1,539 @@
+Server started on 127.0.0.1 : 1222
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Server started on 127.0.0.1 : 1333
+
+Server started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Server started on 127.0.0.1 : 1333
+
+Server started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Server started on 127.0.0.1 : 1333
+
+Server started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: r2neARSM0hDxQwdIg1wWew==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:hiData from client:adadaData from client:helloData from client:thanksData from client:byeData from client:zxData from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: DkMcKqX6Y2YRpdd0LQpPbw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Server started on 127.0.0.1 : 1333
+
+Data from client:dsdsMaster Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: D1PgZfxC6AD+xVak0h0Ncw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:dsdsdsData from client:fsfssfsfServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: 6gLMMqB5C3X9IiC9wLLt5w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:dsdssdsdData from client:fsfssfData from client:as2Data from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: 9cqcd1tlV3jMh/Y+GF7CrQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:asasData from client:ÈData from client:ÈServer started on 127.0.0.1 : 8080
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: Lg1vtXhct1o1c+VqK9gRFw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:121212Data from client:Èsocket_bind() failed: Permission deniedServer started on 127.0.0.1 : 80
+
+Server started on 127.0.0.1 : 8080
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: OQoJTPRfrxTCI9R6c8PXMw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:ssdsdsdMaster Socket Changed.
+
+Server started on 127.0.0.1 : 
+
+Server started on 127.0.0.1 : 
+
+socket_bind() failed: Permission deniedServer started on 127.0.0.1 : 80
+
+Server started on 127.0.0.1 : 
+
+socket_bind() failed: Permission deniedServer started on 127.0.0.1 : 80
+
+socket_bind() failed: Permission deniedServer started on 127.0.0.1 : 80
+
+socket_bind() failed: Permission deniedServer started on 127.0.0.1 : 80
+
+socket_bind() failed: Permission deniedServer started on 127.0.0.1 : 80
+
+Server started on 127.0.0.1 : 8080
+
+Server started on 127.0.0.1 : 8080
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: cqYmnWlV0h4gXtpWxz/pmg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:ÈServer started on 127.0.0.1 : 33444
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:33444
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: 7ufJyGow+y2Q3Il6L83Dag==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Server started on 127.0.0.1 : 33445
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:33445
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: CHPoGLh2clpyzGayUEVFwg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Master Socket Changed.
+
+Master Socket Changed.
+
+Master Socket Changed.
+
+Master Socket Changed.
+
+Master Socket Changed.
+
+Server started on 127.0.0.1 : 33445
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:33445
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: GNiYOWNNhNc4ggiZvIqlwQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Server started on 127.0.0.1 : 1333
+
+Data from client:ÈMaster Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: XI7B7fYRHLi3WApmLQEv4w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: b7+UBqeygbQRnU1DA6gx/g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: 45Uu01LL7hfaWX3RmhZpHQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: nZqhYC8uhHbiHvIK1bqayA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: UeyXBXu9B29r8QsYMi+k+g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:asasasData from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: 2CpfxeLi1bOFxa3roLpcDw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:1Data from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: CS6mC0oP76nWuzcf6eO0iw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:sasasData from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: kyJQKzIIuy9+8I8jRu0XuQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:ÈServer started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: 1szLP4oFQL+6acdy9JvnCg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:adadadadData from client:Server started on 127.0.0.1 : 1333
+
+Server started on 127.0.0.1 : 1333
+
+Master Socket Changed.
+
+Connecting socket.
+
+Accepted client 
+
+Handshaking headers from client:GET / HTTP/1.1
+Host: 127.0.0.1:1333
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://localhost
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,gl;q=0.6
+Sec-WebSocket-Key: Swf2n9wAiB6uLeNUWXdO+Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+Data from client:È
