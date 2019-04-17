@@ -17,5 +17,5 @@ How to execute:
 
 Observations on command:
 - nohup used for keep the execution of php command in background;
-- >dev/null used for deny the output file generation;
+- dev/null used for deny the output file generation;
 - & used for make terminal usable again;
